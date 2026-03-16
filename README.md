@@ -1,5 +1,6 @@
 #program kasir sederhana 
 program ini dibuat menggunakan bahasa C++ sebagai tugas akkhir semester1.
+program ini dibuat kelompok kami dimatkul Dasar dasar pemrograman
 fitur:
 - menampilkan daftar barang
 - menambahkan jenis barang baru
@@ -8,4 +9,3 @@ fitur:
 - total belanja
 - menambahkan diskon dlm bentuk persen
 - menghitung kembalian
-ptogram ini dibuat kelompok kami dimatkul Dasar dasar pemrograman
