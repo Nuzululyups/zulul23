@@ -24,7 +24,7 @@ string formatrupiah(int angka) {
 int main() {
     barang brg[100] = {
         {"BR01", "Beras 3 kg", 15000, 10},
-          {"MG02", "Minyak goreng 1 liter", 20000, 10},
+        {"MG02", "Minyak goreng 1 liter", 20000, 10},
         {"TL03", "Telur 1/4", 5000, 15},
         {"TR04", "Terigu 1/5 kg", 8000, 20},
         {"AC05", "Aci 1/5 kg", 8000, 20},
